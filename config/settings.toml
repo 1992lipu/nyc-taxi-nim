@@ -1,0 +1,4 @@
+[api]
+NIM_SQL_API_URL = "https://nim-api-endpoint/sql-generation"
+NIM_IMAGE_API_URL = "https://nim-api-endpoint/text-to-image"
+NIM_API_KEY = "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"

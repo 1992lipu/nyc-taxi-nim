@@ -1,0 +1,17 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit specific
+.streamlit/
+
+# Docker
+*.dockerignore
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment files
+.env

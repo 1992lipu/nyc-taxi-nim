@@ -1,0 +1,7 @@
+streamlit
+requests
+duckdb
+Pillow
+toml
+langchain_nvidia_ai_endpoints
+folium
